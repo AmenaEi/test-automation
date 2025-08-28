@@ -22,7 +22,7 @@ To run the tests, please ensure the following tools are installed:
 
 ### 1. Open the Unity project
 
-- Launch Unity Hub and open the Unity project included in this repository (path)
+- Launch Unity Hub and open the Unity project included in [this repository](https://github.com/AmenaEi/estoty-unity.git)
 - Make sure the scene contains:
     - A button named `Button`
     - A text element named `CountText`
